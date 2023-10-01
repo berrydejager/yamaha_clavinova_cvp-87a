@@ -18,4 +18,4 @@
 | C288 | |
 | C289 | |
 
-Thanks to [Drew Forchione](https://drewforchione.wordpress.com/about-me/) for his [blog](https://drewforchione.wordpress.com/portfolio/yamaha-cvp-87a-repair/)
+Thanks to [Drew Forchione](https://drewforchione.wordpress.com/about-me/) for his [blog](https://drewforchione.wordpress.com/portfolio/yamaha-cvp-87a-repair/)- [PDF mirror](./documentation/diagrams/repair_cvp-87a_drewforchione.pdf)
