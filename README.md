@@ -1,12 +1,12 @@
 # Repairing a Yamaha Clavinova CVP-87A
 
-https://www.digikey.com/en/mylists/list/2B7RWD5RRW
+[Order list on Digikey.com](https://www.digikey.com/en/mylists/list/2U58THD9WK)
 
-https://www.digikey.nl/nl/mylists/list/2B7RWD5RRW
+[Order list on Digitkey.nl](https://www.digikey.nl/nl/mylists/list/2U58THD9WK)
 
-# Visually lseaking electrolytic capacitors
+# Visually leaking electrolytic capacitors
 
-| ID | |
+| ID | Description |
 | --- | --- |
 | C87 | |
 | C89 | |
@@ -17,4 +17,5 @@ https://www.digikey.nl/nl/mylists/list/2B7RWD5RRW
 | C115 | |
 | C288 | |
 | C289 | |
-| 
+
+Thanks to [Drew Forchione](https://drewforchione.wordpress.com/about-me/) for his [blog](https://drewforchione.wordpress.com/portfolio/yamaha-cvp-87a-repair/)
