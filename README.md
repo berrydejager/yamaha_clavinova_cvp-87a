@@ -4,7 +4,7 @@
 
 [Order list on Digitkey.nl](https://www.digikey.nl/nl/mylists/list/2U58THD9WK)
 
-# Visually leaking electrolytic capacitors
+# Replacing electrolytic capacitors on DM board.
 
 | Replaced | X/Y | Designator | Value | Voltage Rating | Digikey Part No. | Price |
 | --- | --- | --- | --- | --- | --- | --- |
