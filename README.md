@@ -1,4 +1,21 @@
-# Repairing a Yamaha Clavinova CVP-87A
+# Restorative yoga for a Yamaha Clavinova CVP-87A
+
+In the tranquil realm of the piano's journey through time, previous custodians spoke of a gentle fading of its melodic essence. This is a common story where capacitors age, like trees shedding their leaves in the autumn.
+
+As the piano awakens after a cold start, it whispers of its story through static and discord. Here, we hear the call to restore its inner harmony, to breathe life back into its spirit.
+
+Like a yoga practitioner finding balance, we embark on the path of renewal. With gentle reverence, we replace the aging capacitors, allowing the piano's melody to blossom anew. In this simple act, we honor the piano's timeless spirit and rediscover its melody.
+
+## Documentation
+
+The quest for documentation marks the initial step on our journey. Much like a seeker on a spiritual path, we must find the sacred scrolls that hold the wisdom we seek.
+
+The path to enlightenment often proves challenging, for as we seek the service manual, we encounter roadblocks and dead-end trails. But just as a dedicated yogi persists through adversity, we too shall find a way to unearth the precious knowledge we need.
+
+* [Service manual for Yamaha Clavinova CVP-85A CVP-87A](./documentation/manuals/yamaha_clavinova_cvp-85a_cvp-87a_service_manual.pdf)
+* [Owner's manual for Yamaha Clavinova CVP-87A CVP-85A CVP-83S](./documentation/manuals/yamaha_clavinova_cvp-87a_cvp-85a_cvp-83s_owners_manual.pdf)
+
+## Parts
 
 [Order list on Digikey.com](https://www.digikey.com/en/mylists/list/2U58THD9WK)
 
@@ -56,5 +73,9 @@
 
 
 https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FR1A101B/2504105
+ 
+## Gratitude
 
-Thanks to [Drew Forchione](https://drewforchione.wordpress.com/about-me/) for his [blog](https://drewforchione.wordpress.com/portfolio/yamaha-cvp-87a-repair/)- [PDF mirror](./documentation/diagrams/repair_cvp-87a_drewforchione.pdf)
+I want to express my heartfelt thanks to following souls for their unwavering support and guidance. Your kindness has made a significant impact on this journey
+
+* [Drew Forchione](https://drewforchione.wordpress.com/about-me/) for his [blog](https://drewforchione.wordpress.com/portfolio/yamaha-cvp-87a-repair/)- [PDF mirror](./documentation/diagrams/yamaha_clavinova_cvp-87a_repair_guide_by_drewforchione.pdf)
