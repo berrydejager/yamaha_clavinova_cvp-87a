@@ -15,13 +15,25 @@ The path to enlightenment often proves challenging, for as we seek the service m
 * [Service manual for Yamaha Clavinova CVP-85A CVP-87A](./documentation/manuals/yamaha_clavinova_cvp-85a_cvp-87a_service_manual.pdf)
 * [Owner's manual for Yamaha Clavinova CVP-87A CVP-85A CVP-83S](./documentation/manuals/yamaha_clavinova_cvp-87a_cvp-85a_cvp-83s_owners_manual.pdf)
 
+## Equipment
+
+In the sacred practice of restoration, we embrace the gentle companions of our journey, the tools that guide us on our path:
+
+* [Yihua 862BD+ SMD hot air rework station with soldering iron](http://yihua-soldering.com/product-1-3-1-hot-air-rework-station-en/147662/)
+* [Digital Multimeter]()
+* [Precision screw driver set]()
+* [Hu-friedy Curette Gracy 15/16](https://hufriedygroup.eu/en/products/periodontal/gracey-curettes/standard/sg1516r9e2-curette-gracey-1516-hdl-9-rigid-mesial)
+* [Flux/solder paste](https://termopasty.pl/en/produkty/solder-paste/)
+* [DriodCam as digital microscope](https://www.dev47apps.com/)
+
 ## Parts
 
-[Order list on Digikey.com](https://www.digikey.com/en/mylists/list/2U58THD9WK)
+In the journey of restoration, we call upon the sacred components that are needed to rekindle the spirit;
 
-[Order list on Digitkey.nl](https://www.digikey.nl/nl/mylists/list/2U58THD9WK)
+* [Order list on Digikey.com](https://www.digikey.com/en/mylists/list/2U58THD9WK)
+* [Order list on Digitkey.nl](https://www.digikey.nl/nl/mylists/list/2U58THD9WK)
 
-# Replacing electrolytic capacitors on DM board.
+## Replacing electrolytic capacitors on DM board
 
 | Replaced | X/Y | Designator | Value | Voltage Rating | Digikey Part No. | Price |
 | --- | --- | --- | --- | --- | --- | --- |
